@@ -1,10 +1,11 @@
 
 import './App.css';
+import Faq from './components/Faq';
 
 function App() {
   return (
    <div>
-    <h1>Hello world</h1>
+       <Faq/>
    </div>
   );
 }
